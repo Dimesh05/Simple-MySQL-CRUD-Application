@@ -16,5 +16,10 @@ namespace Simple_MySQL_CRUD_Application
         {
             InitializeComponent();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
